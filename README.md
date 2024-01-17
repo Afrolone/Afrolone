@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, my name is Jahja, you can call me Afrolone 👨‍🦱 🌲 ⛰️
+**`iOS/Android/Native`**
 
 <!--
 **Afrolone/Afrolone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
